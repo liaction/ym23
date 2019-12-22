@@ -1,0 +1,14 @@
+{
+  "status": 1,
+  "data": {
+    "active": false,
+    "activeCode": "ym23cs",
+    "version": "1.0.1",
+    "url": "",
+    "description": "发现新版本,当前版本修复了若干bug,请及时更新",
+    "exit": false,
+    "why": "程序正在维护中,暂时无法使用,请等待修复完毕,给您带来不变请谅解...",
+    "notice": false,
+    "noticeMessage": "新通知消息,测试一下"
+  }
+}
